@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Brayan Diaz
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, Python, HTML, CSS and Linux
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 👋 Hi, I’m Brayan Diaz.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JavaScript, Python, HTML, CSS and Linux.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/brayan-diaz/
+- <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
 
