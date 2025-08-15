@@ -1,8 +1,7 @@
 ### Hi there, I’m Brayan Diaz 👋
 
 - 🌱 I’m currently learning JavaScript, Python3, HTML5, CSS and Linux.
-- 👀 I’m interested on FullStack Developement. 
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/brayan-diaz/
+- 👀 I’m interested on automation, webscrapping and data. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
